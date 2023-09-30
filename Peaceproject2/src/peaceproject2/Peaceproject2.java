@@ -4,7 +4,7 @@ public class Peaceproject2 {
 
 	public static void main(String[] args) {
 		
-		String myName = "Peace";
+		String myName = "Ruth";
 		int myInt = 20;
 		double shoeSize = 10.5;
 		char myInitial = 'O';
